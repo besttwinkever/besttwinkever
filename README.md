@@ -34,17 +34,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📂 Портфолио:
-- 🏡 Квартируем ([backend](https://github.com/go-park-mail-ru/2025_1_404) и [frontend](https://github.com/frontend-park-mail-ru/2025_1_404)) — сервис по покупке, продаже и аренде недвижимости (аналог Циан).
-- 🛠️ Удаленная поддержка ([backend](https://github.com/besttwinkever/Web_Backend) и [frontend](https://github.com/besttwinkever/Web_Frontend/tree/user-interface)) — сервис оформления заявок удаленной помощи.
-- ❔ [AskMe](https://github.com/besttwinkever/askme_slkuni) — сервис для поиска решения проблемы (аналог StackOverflow).
+- 🏡 Квартируем ([backend](https://github.com/go-park-mail-ru/2025_1_404) и [frontend](https://github.com/frontend-park-mail-ru/2025_1_404)) – сервис по покупке, продаже и аренде недвижимости (аналог Циан).
+- 🛠️ Удаленная поддержка ([backend](https://github.com/besttwinkever/Web_Backend) и [frontend](https://github.com/besttwinkever/Web_Frontend/tree/user-interface)) – сервис оформления заявок удаленной помощи.
+- ❔ [AskMe](https://github.com/besttwinkever/askme_slkuni) – сервис для поиска решения проблемы (аналог StackOverflow).
 
 ## 🔗 Другие проекты
 Я являюсь активным участником SA:MP сообщества и имею следующие проекты:
-- 🎮 [SAMP Reborn](https://resamp.ru) - улучшенный клиент для SA:MP.
-- 🤖 [MoonBot](https://www.blast.hk/threads/91981/) — внутриигровые боты для Moonloader.
-- 🥽 [SAMP VR](https://github.com/MrCreepTon/SAMP-VR) — виртуальная реальность в SA:MP.
-- 🚀 [samp-query-cli](https://github.com/MrCreepTon/samp-query-cli) — CLI инструмент для получения информации о SA:MP сервере.
-- 🔄 [CycledLife](https://github.com/MrCreepTon/CycledLife) — плагин, реализующий социальный эксперимент в Minecraft.
+- 🎮 [SAMP Reborn](https://resamp.ru) – улучшенный клиент для SA:MP.
+- 🤖 [MoonBot](https://www.blast.hk/threads/91981/) – внутриигровые боты для Moonloader.
+- 🥽 [SAMP VR](https://github.com/MrCreepTon/SAMP-VR) – виртуальная реальность в SA:MP.
+- 🚀 [samp-query-cli](https://github.com/MrCreepTon/samp-query-cli) – CLI инструмент для получения информации о SA:MP сервере.
+- 🔄 [CycledLife](https://github.com/MrCreepTon/CycledLife) – плагин, реализующий социальный эксперимент в Minecraft.
 
 ## 📫 Связаться со мной
 <a href="mailto:german.slkuni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
