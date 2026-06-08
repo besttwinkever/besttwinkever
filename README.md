@@ -37,6 +37,7 @@
 - 🏡 Квартирум ([backend](https://github.com/go-park-mail-ru/2025_1_404) и [frontend](https://github.com/frontend-park-mail-ru/2025_1_404)) – сервис по покупке, продаже и аренде недвижимости (аналог Циан).
 - 🛠️ Удаленная поддержка ([backend](https://github.com/besttwinkever/Web_Backend) и [frontend](https://github.com/besttwinkever/Web_Frontend/tree/user-interface)) – сервис оформления заявок удаленной помощи.
 - ❔ [AskMe](https://github.com/besttwinkever/askme_slkuni) – сервис для поиска решения проблемы (аналог StackOverflow).
+- ⚖️ [Проектирование высоконагруженной системы](https://github.com/besttwinkever/Highload) - проектирование аналога Steam с учетом высоких нагрузок.
 
 ## 🔗 Другие проекты
 Я являюсь активным участником SA:MP сообщества и имею следующие проекты:
